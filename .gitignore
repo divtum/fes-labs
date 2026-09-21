@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# CCS generated build directories
+CPU1_RAM/
+Debug/
+Release/
+
+# Compiler-generated files
+*.obj
+*.out
+*.map
+*.d
+*.mk
+*.opt
+
+# Generated build metadata
+*.xml
+
+# CCS generated compilation database
+compile_commands.json
