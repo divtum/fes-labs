@@ -194,7 +194,7 @@ Click the image below to watch the hardware demonstration on YouTube.
 
 <p align="center">
   <a href="https://youtube.com/shorts/UwxBQRRc8kU?feature=share">
-    <img src="images/demo-thumbnail.jpg" width="700">
+    <img src="images/demo-thumbnail.png" width="700">
   </a>
 </p>
 
